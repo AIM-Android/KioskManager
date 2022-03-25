@@ -1,4 +1,6 @@
+[View English](https://github.com/AIM-Android/KioskManager/blob/main/README.md)
 # Kiosk设定管理
+[Kiosk设定管理工具下载](https://github.com/AIM-Android/KioskManager/raw/main/KioskSetting.apk)<br>
 Kiosk管理工具可以将任意一个应用设置成开机全屏自动全屏启动，Android系统的状态栏和导航栏也会自动隐藏，如果设备工作在这种模式，我们就称为Kiosk模式。
 在日常生活中，也我们也可以看到很多设备工作在Kiosk模式，比如：自助机，数位广告机，导览设备，ATM机，POS收银机等等。还有一些我们平时见不到的场景，如果工厂产线，工业自动化现场的设备，一版也会工作在Kiosk模式，即开机就运行业务程序，而不是启动到系统的桌面。
 kiosk管理软件的功能：就是可以将客人第三方App，设置成为kiosk APP，开机后会自动启动该app，一般Kiosk应用场景对安全性要求也较高，所以，想要退出Kiosk模式，需要管理员输入正确密码才能退出。
