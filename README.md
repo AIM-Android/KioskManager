@@ -1,3 +1,4 @@
+[查看中文版说明](https://github.com/AIM-Android/KioskManager/blob/main/README_ZH.md)
 # Kiosk Manager
 
 [Click to download Kiosk management tool]()
