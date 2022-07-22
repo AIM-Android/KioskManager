@@ -1,7 +1,9 @@
 [查看中文版说明](https://github.com/AIM-Android/KioskManager/blob/main/README_ZH.md)
 # Kiosk Manager
 
-[Click to download Kiosk management tool]()
+[Click to download Kiosk management tool()](https://github.com/AIM-Android/KioskManager/raw/main/KioskSetting.apk)<br>
+KioskSetting.Apk needs system permission, so after downloading, it needs system signature to use.<br>
+[Signed KioskSetting.Apk for Advantech AIM-78](https://github.com/AIM-Android/KioskManager/blob/main/KioskSetting_v1.0.4_signed_aim78.apk)
 
 Kiosk management tool can set any application to start automaticly in full-screen when boot, Android system status bar and navigation bar will also be automatically hidden, if the device works in this mode, we are called Kiosk mode.
 
