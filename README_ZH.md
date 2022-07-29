@@ -1,4 +1,5 @@
 [View English](https://github.com/AIM-Android/KioskManager/blob/main/README.md)
+KioskSetting 应用版权归属研华科技，其他公司未经研华许可，不得将此应用作为商业用途或公司内部导入生产环境使用。如有商业化需求，请联系研华购买相关许可。
 # Kiosk设定管理
 [Kiosk设定管理工具下载](https://github.com/AIM-Android/KioskManager/raw/main/KioskSetting_v1.0.5.apk)<br>
 KioskSetting.apk需要 system权限，所以下载后，需要系统签名才能使用。<br>
