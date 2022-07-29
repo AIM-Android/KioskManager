@@ -1,8 +1,8 @@
 [View English](https://github.com/AIM-Android/KioskManager/blob/main/README.md)
 # Kiosk设定管理
-[Kiosk设定管理工具下载](https://github.com/AIM-Android/KioskManager/raw/main/KioskSetting.apk)<br>
+[Kiosk设定管理工具下载](https://github.com/AIM-Android/KioskManager/raw/main/KioskSetting_v1.0.5.apk)<br>
 KioskSetting.apk需要 system权限，所以下载后，需要系统签名才能使用。<br>
-[签过名的KioskSetting.Apk，适用研华AIM-78](https://github.com/AIM-Android/KioskManager/blob/main/KioskSetting_v1.0.4_signed_aim78.apk)
+[签过名的KioskSetting.Apk，适用研华AIM-78](https://github.com/AIM-Android/KioskManager/raw/main/KioskSetting_v1.0.5_signed_aim78.apk)
 
 Kiosk管理工具可以将任意一个应用设置成开机全屏自动全屏启动，Android系统的状态栏和导航栏也会自动隐藏，如果设备工作在这种模式，我们就称为Kiosk模式。
 在日常生活中，也我们也可以看到很多设备工作在Kiosk模式，比如：自助机，数位广告机，导览设备，ATM机，POS收银机等等。还有一些我们平时见不到的场景，如果工厂产线，工业自动化现场的设备，一版也会工作在Kiosk模式，即开机就运行业务程序，而不是启动到系统的桌面。
